@@ -4,10 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bd60b640-a5d8-41bb-a19f-cfea9eee922c" name="Changes" comment="lab1 edit, add random">
-      <change afterPath="$PROJECT_DIR$/NumPyProject.ipynb" afterDir="false" />
+    <list default="true" id="bd60b640-a5d8-41bb-a19f-cfea9eee922c" name="Changes" comment="NumPyProject Lesson 24102025">
+      <change afterPath="$PROJECT_DIR$/03-NumPy-Exercises.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seaborn-project.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NumPyProject.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/NumPyProject.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/lab1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/lab1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lab2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/lab2.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +56,10 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "ai.playground.ignore.import.keys.banner.in.settings": "true",
     "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Flipper/MDK0107-LABS-NAZAROV",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -62,11 +68,16 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Flipper\MDK0107-LABS-NAZAROV" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-b598e85cdad2-JavaScript-PY-252.25557.178" />
-        <option value="bundled-python-sdk-ce6832f46686-7b97d883f26b-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.25557.178" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-PY-253.30387.173" />
+        <option value="bundled-python-sdk-4762d8aabb82-6d6dccd035ac-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-253.30387.173" />
       </set>
     </attachedChunks>
   </component>
@@ -78,7 +89,13 @@
       <option name="presentableId" value="Default" />
       <updated>1760095458915</updated>
       <workItem from="1760095460579" duration="3296000" />
-      <workItem from="1761302196806" duration="1840000" />
+      <workItem from="1761302196806" duration="7837000" />
+      <workItem from="1762440780083" duration="5205000" />
+      <workItem from="1763127315506" duration="129000" />
+      <workItem from="1768910913657" duration="3033000" />
+      <workItem from="1768922382486" duration="508000" />
+      <workItem from="1770040668388" duration="159000" />
+      <workItem from="1770284438526" duration="539000" />
     </task>
     <task id="LOCAL-00001" summary="lab1">
       <option name="closed" value="true" />
@@ -96,7 +113,15 @@
       <option name="project" value="LOCAL" />
       <updated>1760100027279</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="NumPyProject Lesson 24102025">
+      <option name="closed" value="true" />
+      <created>1761304072167</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1761304072167</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -105,6 +130,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="lab1" />
     <MESSAGE value="lab1 edit, add random" />
-    <option name="LAST_COMMIT_MESSAGE" value="lab1 edit, add random" />
+    <MESSAGE value="NumPyProject Lesson 24102025" />
+    <option name="LAST_COMMIT_MESSAGE" value="NumPyProject Lesson 24102025" />
   </component>
 </project>
