@@ -4,11 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bd60b640-a5d8-41bb-a19f-cfea9eee922c" name="Changes" comment="NumPyProject Lesson 24102025">
-      <change beforePath="$PROJECT_DIR$/.idea/MDK0107-LABS-NAZAROV.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/MDK0107-LABS-NAZAROV.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="bd60b640-a5d8-41bb-a19f-cfea9eee922c" name="Changes" comment="complete lab2 &quot;ООП&quot;">
+      <change afterPath="$PROJECT_DIR$/lab3/lab3.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/mypackage/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/mypackage/m1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/mypackage/m2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab3/wassap.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lab2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/lab2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +22,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Jupyter Notebook" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -94,7 +98,7 @@
       <workItem from="1768922382486" duration="508000" />
       <workItem from="1770040668388" duration="159000" />
       <workItem from="1770284438526" duration="539000" />
-      <workItem from="1770314127152" duration="9278000" />
+      <workItem from="1770314127152" duration="11529000" />
     </task>
     <task id="LOCAL-00001" summary="lab1">
       <option name="closed" value="true" />
@@ -120,7 +124,15 @@
       <option name="project" value="LOCAL" />
       <updated>1761304072167</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="complete lab2 &quot;ООП&quot;">
+      <option name="closed" value="true" />
+      <created>1770373173254</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1770373173254</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -130,6 +142,7 @@
     <MESSAGE value="lab1" />
     <MESSAGE value="lab1 edit, add random" />
     <MESSAGE value="NumPyProject Lesson 24102025" />
-    <option name="LAST_COMMIT_MESSAGE" value="NumPyProject Lesson 24102025" />
+    <MESSAGE value="complete lab2 &quot;ООП&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="complete lab2 &quot;ООП&quot;" />
   </component>
 </project>
