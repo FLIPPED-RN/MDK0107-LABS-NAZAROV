@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bd60b640-a5d8-41bb-a19f-cfea9eee922c" name="Changes" comment="complete lab4">
-      <change afterPath="$PROJECT_DIR$/lab6/Book1.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab6/lab6.ipynb" afterDir="false" />
+    <list default="true" id="bd60b640-a5d8-41bb-a19f-cfea9eee922c" name="Changes" comment="complete lab6">
+      <change afterPath="$PROJECT_DIR$/lab7/dataset_31_credit-g.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab7/lab7.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,7 +57,7 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "ai.playground.ignore.import.keys.banner.in.settings": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/rnaza/PycharmProjects/MDK0107-LABS-NAZAROV/lab6",
+    "last_opened_file_path": "C:/Users/rnaza/PycharmProjects/MDK0107-LABS-NAZAROV/lab7",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -68,6 +68,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\rnaza\PycharmProjects\MDK0107-LABS-NAZAROV\lab7" />
       <recent name="C:\Users\rnaza\PycharmProjects\MDK0107-LABS-NAZAROV\lab6" />
       <recent name="C:\Users\rnaza\PycharmProjects\MDK0107-LABS-NAZAROV\lab4" />
       <recent name="C:\Users\Flipper\MDK0107-LABS-NAZAROV" />
@@ -98,7 +99,7 @@
       <workItem from="1770284438526" duration="539000" />
       <workItem from="1770314127152" duration="15638000" />
       <workItem from="1771502871746" duration="1571000" />
-      <workItem from="1771504730696" duration="1774000" />
+      <workItem from="1771504730696" duration="2975000" />
     </task>
     <task id="LOCAL-00001" summary="lab1">
       <option name="closed" value="true" />
@@ -148,7 +149,15 @@
       <option name="project" value="LOCAL" />
       <updated>1771504342418</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="complete lab6">
+      <option name="closed" value="true" />
+      <created>1771506595135</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1771506595135</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -161,6 +170,7 @@
     <MESSAGE value="complete lab2 &quot;ООП&quot;" />
     <MESSAGE value="complete lab3" />
     <MESSAGE value="complete lab4" />
-    <option name="LAST_COMMIT_MESSAGE" value="complete lab4" />
+    <MESSAGE value="complete lab6" />
+    <option name="LAST_COMMIT_MESSAGE" value="complete lab6" />
   </component>
 </project>
