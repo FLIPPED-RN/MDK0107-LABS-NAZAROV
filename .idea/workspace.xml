@@ -4,14 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bd60b640-a5d8-41bb-a19f-cfea9eee922c" name="Changes" comment="complete lab2 &quot;ООП&quot;">
-      <change afterPath="$PROJECT_DIR$/lab3/lab3.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab3/mypackage/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab3/mypackage/m1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab3/mypackage/m2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab3/wassap.txt" afterDir="false" />
+    <list default="true" id="bd60b640-a5d8-41bb-a19f-cfea9eee922c" name="Changes" comment="complete lab3">
+      <change afterPath="$PROJECT_DIR$/lab4/00-NumPy-Arrays.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/01-NumPy-Indexing-and-Selection.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/02-NumPy-Operations.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab4/03-NumPy-Exercises.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,12 +33,12 @@
     &quot;assignee&quot;: &quot;FLIPPED-RN&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/FLIPPED-RN/MDK0107-LABS-NAZAROV.git",
-    "accountId": "edca7cc0-b937-478c-8039-8d74d4755b20"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/FLIPPED-RN/MDK0107-LABS-NAZAROV.git&quot;,
+    &quot;accountId&quot;: &quot;edca7cc0-b937-478c-8039-8d74d4755b20&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -61,7 +59,7 @@
     &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
     &quot;ai.playground.ignore.import.keys.banner.in.settings&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Flipper/MDK0107-LABS-NAZAROV&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/rnaza/PycharmProjects/MDK0107-LABS-NAZAROV/lab4&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -72,6 +70,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\rnaza\PycharmProjects\MDK0107-LABS-NAZAROV\lab4" />
       <recent name="C:\Users\Flipper\MDK0107-LABS-NAZAROV" />
     </key>
   </component>
@@ -98,7 +97,8 @@
       <workItem from="1768922382486" duration="508000" />
       <workItem from="1770040668388" duration="159000" />
       <workItem from="1770284438526" duration="539000" />
-      <workItem from="1770314127152" duration="11529000" />
+      <workItem from="1770314127152" duration="15638000" />
+      <workItem from="1771502871746" duration="1202000" />
     </task>
     <task id="LOCAL-00001" summary="lab1">
       <option name="closed" value="true" />
@@ -132,7 +132,15 @@
       <option name="project" value="LOCAL" />
       <updated>1770373173254</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="complete lab3">
+      <option name="closed" value="true" />
+      <created>1770375651231</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1770375651231</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -143,6 +151,7 @@
     <MESSAGE value="lab1 edit, add random" />
     <MESSAGE value="NumPyProject Lesson 24102025" />
     <MESSAGE value="complete lab2 &quot;ООП&quot;" />
-    <option name="LAST_COMMIT_MESSAGE" value="complete lab2 &quot;ООП&quot;" />
+    <MESSAGE value="complete lab3" />
+    <option name="LAST_COMMIT_MESSAGE" value="complete lab3" />
   </component>
 </project>
