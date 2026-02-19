@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bd60b640-a5d8-41bb-a19f-cfea9eee922c" name="Changes" comment="complete lab3">
-      <change afterPath="$PROJECT_DIR$/lab4/00-NumPy-Arrays.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/01-NumPy-Indexing-and-Selection.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/02-NumPy-Operations.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lab4/03-NumPy-Exercises.ipynb" afterDir="false" />
+    <list default="true" id="bd60b640-a5d8-41bb-a19f-cfea9eee922c" name="Changes" comment="complete lab4">
+      <change afterPath="$PROJECT_DIR$/lab6/Book1.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lab6/lab6.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -19,8 +17,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Jupyter Notebook" />
         <option value="Python Script" />
+        <option value="Jupyter Notebook" />
       </list>
     </option>
   </component>
@@ -50,26 +48,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;ai.playground.ignore.import.keys.banner.in.settings&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/rnaza/PycharmProjects/MDK0107-LABS-NAZAROV/lab4&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "ai.playground.ignore.import.keys.banner.in.settings": "true",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/rnaza/PycharmProjects/MDK0107-LABS-NAZAROV/lab6",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\rnaza\PycharmProjects\MDK0107-LABS-NAZAROV\lab6" />
       <recent name="C:\Users\rnaza\PycharmProjects\MDK0107-LABS-NAZAROV\lab4" />
       <recent name="C:\Users\Flipper\MDK0107-LABS-NAZAROV" />
     </key>
@@ -98,7 +97,8 @@
       <workItem from="1770040668388" duration="159000" />
       <workItem from="1770284438526" duration="539000" />
       <workItem from="1770314127152" duration="15638000" />
-      <workItem from="1771502871746" duration="1202000" />
+      <workItem from="1771502871746" duration="1571000" />
+      <workItem from="1771504730696" duration="1774000" />
     </task>
     <task id="LOCAL-00001" summary="lab1">
       <option name="closed" value="true" />
@@ -140,7 +140,15 @@
       <option name="project" value="LOCAL" />
       <updated>1770375651231</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="complete lab4">
+      <option name="closed" value="true" />
+      <created>1771504342418</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1771504342418</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -152,6 +160,7 @@
     <MESSAGE value="NumPyProject Lesson 24102025" />
     <MESSAGE value="complete lab2 &quot;ООП&quot;" />
     <MESSAGE value="complete lab3" />
-    <option name="LAST_COMMIT_MESSAGE" value="complete lab3" />
+    <MESSAGE value="complete lab4" />
+    <option name="LAST_COMMIT_MESSAGE" value="complete lab4" />
   </component>
 </project>
